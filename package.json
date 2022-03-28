@@ -10,11 +10,16 @@
   },
   "dependencies": {
     "next": "12.1.0",
+    "next-connect": "^0.12.2",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@types/node": "17.0.22",
+    "@types/passport": "^1.0.7",
+    "@types/passport-google-oauth20": "^2.0.11",
     "@types/react": "17.0.41",
     "eslint": "8.11.0",
     "eslint-config-next": "12.1.0",
